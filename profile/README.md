@@ -4,6 +4,7 @@
 - Angela Fisher [@angelajfisher](https://github.com/angelajfisher)
 - Brian La [@BMLx23](https://github.com/BMLx23)
 - Cory DeGuzman [@deguzmancory](https://github.com/deguzmancory)
+- Hector Elias [@helias-444](https://github.com/helias-444)
 - Matt Baltzer [@mattbaltzer](https://github.com/mattbaltzer)
 
 <!--
