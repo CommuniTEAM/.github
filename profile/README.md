@@ -1,5 +1,6 @@
 ## CommuniTEAM
 
+- Alexander Ho [@alexyho9](https://github.com/alexyho9)
 - Amanda Taing [@aleetaing](https://github.com/aleetaing)
 - Angela Fisher [@angelajfisher](https://github.com/angelajfisher)
 - Brian La [@BMLx23](https://github.com/BMLx23)
