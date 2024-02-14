@@ -1,12 +1,13 @@
 ## CommuniTEAM
 
-- Alexander Ho [@alexyho9](https://github.com/alexyho9)
-- Amanda Taing [@aleetaing](https://github.com/aleetaing)
+<!--- Alexander Ho [@alexyho9](https://github.com/alexyho9) -->
+<!--- Amanda Taing [@aleetaing](https://github.com/aleetaing) -->
 - Angela Fisher [@angelajfisher](https://github.com/angelajfisher)
 - Brian La [@BMLx23](https://github.com/BMLx23)
+- Cindy Lam [@CindyHeartsPink](https://github.com/CindyHeartsPink)
 - Cory DeGuzman [@deguzmancory](https://github.com/deguzmancory)
-- Hector Elias [@helias-444](https://github.com/helias-444)
-- Matt Baltzer [@mattbaltzer](https://github.com/mattbaltzer)
+<!--- Hector Elias [@helias-444](https://github.com/helias-444) -->
+<!--- Matt Baltzer [@mattbaltzer](https://github.com/mattbaltzer) -->
 
 <!--
 
